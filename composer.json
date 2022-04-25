@@ -13,6 +13,12 @@
   "license": "MIT",
   "authors": [
     {
+      "name": "Alexandre Lemaire",
+      "email": "alemaire@circlical.com",
+      "homepage": "https://github.com/Saeven/laminas-assetic",
+      "role": "Developer"
+    },
+    {
       "name": "Gabriel Habryn",
       "email": "widmogrod@gmail.com",
       "homepage": "https://github.com/widmogrod/zf2-assetic-module",
